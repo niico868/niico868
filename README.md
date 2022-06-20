@@ -1,0 +1,5 @@
+- 👋 MarathonNiic is the name.
+- 🌱 Learning to code is the game (Javascript, Python & C)
+- 👀 I’m interested in full stack web development and writting programs to turn off my neighbour's TV at 4am
+- 💞️ I’m looking to collaborate on any Javascript, Python and C coded projects. Becoming a part of a team is my main priority.
+- 📫 Reach me at "neikoliaugustine@gmail.com"
